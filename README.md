@@ -1,6 +1,6 @@
 
-- 👋 Hi there, I'm Noa
-- 👨‍🎓 currently enrolled in a Full-Stack Development bootcamp
+- 👋 Hi there
+- 👨‍🎓 I'm currently enrolled in a Full-Stack Development bootcamp
 - 🌱 studying towards a degree in Software Engineering
 - ✨ My passion for technology and creative problem-solving has driven me to pursue a career in software development.
 - ✨ I bring an analytical and detail-oriented approach to my projects, always striving for excellence in my work
