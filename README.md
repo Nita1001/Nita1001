@@ -1,5 +1,5 @@
 
-- 👋 Hi there
+- Hi there
 - 👨‍🎓 I'm currently enrolled in a Full-Stack Development bootcamp
 - 🌱 studying towards a degree in Software Engineering
 - ✨ My passion for technology and creative problem-solving has driven me to pursue a career in software development.
