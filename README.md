@@ -1,10 +1,10 @@
-Hi there 👋
-- I'm Noa
--👨‍🎓 studying towards a degree in Software Engineering
--⚡ currently enrolled in a Full-Stack Development bootcamp
--🌱 My passion for technology and creative problem-solving has driven me to pursue a career in software engineering
--👯 I bring an analytical and detail-oriented approach to my projects, always striving for excellence in my work.
--My love of creating and building drives me to continuously improve and expand my skillset
+
+- 👋 Hi there, I'm Noa
+- 👨‍🎓 currently enrolled in a Full-Stack Development bootcamp
+- 🌱 studying towards a degree in Software Engineering
+- ✨ My passion for technology and creative problem-solving has driven me to pursue a career in software development.
+- ✨ I bring an analytical and detail-oriented approach to my projects, always striving for excellence in my work
+- ✨ My love of creating and building drives me to continuously improve and expand my skillset.
 
 <!--
 **Nita1001/Nita1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
