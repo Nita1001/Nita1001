@@ -1,7 +1,6 @@
 
-- Hi there
-- 👨‍🎓 I'm currently enrolled in a Full-Stack Development bootcamp
-- 🌱 studying towards a degree in Software Engineering
+- 👨‍🎓 Currently enrolled in a Full-Stack Development bootcamp
+- 🌱 Studying towards a degree in Software Engineering
 - ✨ My passion for technology and creative problem-solving has driven me to pursue a career in software development.
 - ✨ I bring an analytical and detail-oriented approach to my projects, always striving for excellence in my work
 - ✨ My love of creating and building drives me to continuously improve and expand my skillset.
