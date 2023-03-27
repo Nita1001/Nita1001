@@ -5,6 +5,8 @@
 - ✨ I bring an analytical and detail-oriented approach to my projects, always striving for excellence in my work
 - ✨ My love of creating and building drives me to continuously improve and expand my skillset.<br><br><br>
   ![](https://komarev.com/ghpvc/?username=Nita1001&color=lightgrey)
+  <br><br><br>
+  ![](https://hit.yhype.me/github/profile?user_id=110332364)
 <!--
 **Nita1001/Nita1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
