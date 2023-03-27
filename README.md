@@ -4,7 +4,7 @@
 - ✨ My passion for technology and creative problem-solving has driven me to pursue a career in software development.
 - ✨ I bring an analytical and detail-oriented approach to my projects, always striving for excellence in my work
 - ✨ My love of creating and building drives me to continuously improve and expand my skillset.
-
+![](https://komarev.com/ghpvc/?username=Nita1001)
 <!--
 **Nita1001/Nita1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
