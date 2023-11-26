@@ -1,6 +1,6 @@
 
-👨‍🎓 Unity & Full-Stack Software Developer 
-🌱 Studying towards a degree in Software Engineering.
+- 👨‍🎓 Unity & Full-Stack Software Developer 
+- 🌱 Studying towards a degree in Software Engineering.
 
 - ✨ My passion for technology and creative problem-solving has driven me to pursue a career in software development.
 - ✨ I bring an analytical and detail-oriented approach to my projects, always striving for excellence in my work
